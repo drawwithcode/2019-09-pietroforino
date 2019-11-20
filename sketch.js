@@ -90,7 +90,7 @@ function draw() {
     noLoop()
   }
 
-  if (frameCount <= 400) {
+  if (frameCount <= 240) {
     fill('#e68a00')
     noStroke()
     rectMode(CORNER)
